@@ -1,0 +1,23 @@
+{
+  "name": "svgshapes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Jalynnwhite/SVG.git"
+  },
+  "author": "Jalynn White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jalynnwhite/SVG/issues"
+  },
+  "homepage": "https://github.com/Jalynnwhite/SVG#readme",
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "svg-canvas": "^1.0.2"
+  }
+}
